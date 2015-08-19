@@ -1,0 +1,3 @@
+The Gaussian Process Toolkit (GPTK) is a C++ library providing regression/interpolation methods based on Gaussian Processes.
+
+In particular the toolkit implements a projected sequential Gaussian process method (psgp) which has special relevance to data sets with known error characteristics and known sensor models, and particularly heterogeneous data sets. It is also useful for approximate likelihood based inference in large data sets.
